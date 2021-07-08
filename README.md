@@ -1,5 +1,5 @@
 # Motor-drive-design-and-implementation-for-two-wheel-robot-base
-This circuit aims to create the base for moving the robot wheels, in order to do so we placed two DC motors and code them to move in Two-dimensional rotation (clockwise & counterclockwise) which will allow the robot to move forward and backward.
+This circuit aims to create the base for moving the robot wheels, in order to do so we used two DC motors and code them to move in Two-dimensional rotation (clockwise & counterclockwise) which will allow the robot to move forward and backward.
 This circuit simulation is done using Tinckercad (https://www.tinkercad.com/dashboard) , the circuit consists of:
 * one Arduino
 * two DC motors
